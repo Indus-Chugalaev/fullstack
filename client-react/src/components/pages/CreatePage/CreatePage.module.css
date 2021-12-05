@@ -1,0 +1,25 @@
+.content {
+    max-width: 1200px;
+    min-width: 800px;
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+input {
+    border-radius: 5px;
+    margin: 10px;
+}
+
+button {
+    min-width: 100px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.logIn {
+    background-color: chartreuse;
+}
+
+.reg {
+    background-color: darkcyan;
+}
